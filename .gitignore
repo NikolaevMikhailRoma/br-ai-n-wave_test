@@ -1,0 +1,11 @@
+# Ignore hidden folders
+.*
+
+# Ignore contents of logs folder
+logs/*
+
+# Ignore .npy files
+*.npy
+
+# Keep .gitignore
+!.gitignore
