@@ -9,3 +9,6 @@ logs/*
 
 # Keep .gitignore
 !.gitignore
+
+# data
+data/
